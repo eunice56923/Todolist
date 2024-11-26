@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Todolist
+ A simple and functional to-do list application built with React. This app allows users to add, edit, mark as complete, and delete tasks, providing a clean and interactive user interface. It demonstrates the use of React hooks, state management, and component-based design.
+ ![todolist](https://github.com/user-attachments/assets/75825e18-e0d9-4d9f-9e67-f5aab9e8523c)
+>>>>>>> 43d39554fdc42084ae95d4e814cf910924346255
